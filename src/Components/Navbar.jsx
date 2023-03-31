@@ -9,7 +9,7 @@ function Navbar() {
             <Container maxWidth='xl'>
                 <Toolbar>
                     <Typography>
-                        Bank
+                        New Horizon Bank
                     </Typography>
                 </Toolbar>
             </Container>

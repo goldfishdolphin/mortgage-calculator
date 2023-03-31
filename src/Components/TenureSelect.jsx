@@ -1,7 +1,7 @@
 function TenureSelect() {
     return (
         <>
-
+            TenureSelect
         </>
     );
 }
