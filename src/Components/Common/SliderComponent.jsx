@@ -40,7 +40,7 @@ function SliderComponent({
                     {unit} {max}
                 </Typography>
             </Stack>
-        </Stack >
+        </Stack>
     );
 }
 
