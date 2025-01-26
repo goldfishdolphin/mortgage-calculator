@@ -1,8 +1,9 @@
 # Mortgage Calculator App
 
 
- Mortgage Calculator is a banking app that calculates the monthly payments in a graphical chart, home value downpayment, loan ammount and interest rate and tenure of the loan. 
- The application is made using React, MUI library and Chart.js library. After building the application it was deployed on Netlify.
+ Mortgage Calculator is a banking app that calculates the monthly payments in a graphical chart, home value, downpayment, loan ammount and interest rate and tenure of the loan. 
+ 
+ This dynamic application is made using React, MUI library and Chart.js library. After building the application it was deployed on Netlify.
 
 
 In the project directory, you can run:
